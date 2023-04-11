@@ -1,4 +1,4 @@
-/*DESCRIPTION:
+/*DESCRIPTION: 7KYU
 Write a class Block that creates a block (Duh..)
 
 Requirements
